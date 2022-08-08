@@ -1,0 +1,24 @@
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\SelectRandomCharacter.Properties.Resources.resources
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\SelectRandomCharacter.Main.resources
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\bin\Debug\Select Random Character.exe.config
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\bin\Debug\Select Random Character.exe
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\bin\Debug\Select Random Character.pdb
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\SelectRandomCharacter.Preview.resources
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\Select Random Character.exe
+D:\Files\C Sharp\Случайный персонаж\WindowsFormsApp1\obj\Debug\Select Random Character.pdb
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\bin\Debug\Select Random Character.exe.config
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\bin\Debug\Select Random Character.exe
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\bin\Debug\Select Random Character.pdb
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\SelectRandomCharacter.Main.resources
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\SelectRandomCharacter.Preview.resources
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\SelectRandomCharacter.Properties.Resources.resources
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\SelectRandomCharacter.Settings.resources
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\Select Random Character.exe
+F:\Files\My_workshop\C#\Случайный персонаж\WindowsFormsApp1\obj\Debug\Select Random Character.pdb
