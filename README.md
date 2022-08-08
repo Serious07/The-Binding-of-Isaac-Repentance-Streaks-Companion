@@ -6,6 +6,11 @@ Tool to track The Binding of Isaac: Repentance Win Streaks with random character
 
 You can found last relese [here](https://github.com/Serious07/The-Binding-of-Isaac-Repentance-Streaks-Companion/releases)
 
+**Installation and using:**
+
+1. Unzip all files from archive in empty folder
+2. Run Select Random Character.exe
+
 **Features:**
 - Control panel to Increases or Reset Current Win Streak, select new random character for next run
 - Settings
