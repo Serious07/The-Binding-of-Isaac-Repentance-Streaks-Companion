@@ -43,6 +43,6 @@ Good streaks to you!
 
 **Disclaimer:**
 
-This software is not affiliated with the developers of the game in any way!
-All rights to the sprites used in the program remain with the game developers, the program will be removed if the game developers ask for it.
+This software is not affiliated with the developers of the game in any way!<br>
+All rights to the sprites used in the program remain with the game developers, the program will be removed if the game developers ask for it.<br>
 I am not responsible for providing support for this software.
