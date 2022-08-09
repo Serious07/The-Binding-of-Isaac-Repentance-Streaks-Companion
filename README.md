@@ -1,5 +1,7 @@
 # The Binding of Isaac: Repentance Streaks Companion
 
+**Description:**
+
 Tool to track The Binding of Isaac: Repentance Win Streaks with random character
 
 **Download:**
