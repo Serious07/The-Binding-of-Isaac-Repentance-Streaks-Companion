@@ -41,6 +41,8 @@ If you want, you can support me here: https://www.donationalerts.com/r/serious07
 
 Good streaks to you!
 
+---
+
 **Disclaimer:**
 
 - This software is not affiliated with the developers of the game in any way!<br>
