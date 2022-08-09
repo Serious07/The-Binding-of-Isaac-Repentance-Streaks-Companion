@@ -40,3 +40,9 @@ A: Just click on the poop.
 If you want, you can support me here: https://www.donationalerts.com/r/serious07
 
 Good streaks to you!
+
+**Disclaimer:**
+
+This software is not affiliated with the developers of the game in any way!
+All rights to the sprites used in the program remain with the game developers, the program will be removed if the game developers ask for it.
+I am not responsible for providing support for this software.
