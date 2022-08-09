@@ -16,6 +16,14 @@ You can found last relese [here](https://github.com/Serious07/The-Binding-of-Isa
 - Press godhead button after successful run, you will get random character for next run and +1 to win streak
 - Press poop button after unfortunate run, you will get random character for next run and reset you streak
 
+**Answers on questions:**
+
+Q: I already have an active streak, how do I change my current win streak?<br>
+A: The current winstreak and last character can be changed in the settings.
+
+Q: How do I start a new streak and get a new character?<br>
+A: Just click on the poop.
+
 **Features:**
 - Control panel to Increases or Reset Current Win Streak, select new random character for next run
 - Settings
