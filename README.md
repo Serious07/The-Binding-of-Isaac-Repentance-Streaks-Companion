@@ -26,7 +26,7 @@ A: The current winstreak and last character can be changed in the settings.
 Q: How do I start a new streak and get a new character?<br>
 A: Just click on the poop.
 
-Q: I want to see a new feature in the program, how can I achieve this?
+Q: I want to see a new feature in the program, how can I achieve this?<br>
 A: Create Issue and I will try my best to add it, if possible, in my free time.
 
 **Features:**
